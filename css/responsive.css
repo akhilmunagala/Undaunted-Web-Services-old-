@@ -1,0 +1,560 @@
+/*IE10 VIEWPORT FIX*/
+@-ms-viewport {width: device-width;}
+@viewport {width: device-width;}
+
+@media (max-width: 2560px) and (min-width:1920px ){
+	.container{
+		width: 60%;
+	}
+	.burger{
+		display: none;
+	}
+	.mobi-nav{
+		display: none;
+	}
+}
+
+@media (max-width: 1920px) and (min-width:1733px ){
+	.container{
+		width: 75%;
+	}
+	.mobi-nav{
+		display: none;
+	}
+}
+
+@media (max-width: 1733px){
+	.container{
+		width: 80%;
+	}
+	.mobi-nav{
+		display: none;
+	}
+}
+@media (max-width: 1623px){
+	.container{
+		width: 85%;
+	}
+	.mobi-nav{
+		display: none;
+	}
+}
+@media (max-width: 1524px){
+	.container{
+		width: 90%;
+	}
+	.mobi-nav{
+		display: none;
+	}
+}
+@media (max-width: 1430px){
+	.whyus h1{
+		font-size: 3em;
+	}
+	.container{
+		width: 87%;
+		padding: 0;
+	}
+	.mobi-nav{
+		display: none;
+	}
+}
+
+@media (max-width: 1279px){
+
+	[class*= "span5"]{
+	 width: 58.33333333333334%;
+	}
+	.whyusEmoji{
+		left: 68%;
+	}
+	.whyus h1{
+		font-size: 3em;
+	}
+	.forum{
+		width: 66.66666666666667%;
+	}
+	.mobi-nav{
+		display: none;
+	}
+/*
+	.side-widget{
+		display: none;
+	}*/
+}
+
+@media (max-width: 1034px){
+	.logo{
+		margin-top: -95px;
+		height: 281px;
+	}
+	.mobi-nav{
+		display: none;
+	}
+
+	.navbar li{
+		letter-spacing: 3px;
+   		padding: 12px 15px;
+	}
+
+	.brand-story{
+		-webkit-clip-path: polygon(0 0, 100% 0, 100% 57%, 0 77%);
+    	clip-path: polygon(0 0, 100% 0, 100% 57%, 0 77%);
+		height: 560px;
+	}
+
+	.brand-story h1{
+		font-size: 2.5em;
+		padding-top:90px;
+	}
+
+	.brand-story p{
+		font-size: 1.2em;
+		padding-top: 21px;
+	}
+	.brand-story .button{
+		padding-top: 35px;
+	}
+	.brand-story .button a{
+		padding: 13px 80px;
+	}
+	.aboutus{
+		height: 536px;
+		margin-top: -258px;
+		-webkit-clip-path: polygon(0 19%, 100% 0%, 100% 100%, 0 80%);
+    	clip-path: polygon(0 19%, 100% 0%, 100% 100%, 0 80%);
+	}
+
+	.aboutus .text-wrapper{
+		padding-top: 140px;
+	}
+
+	.aboutus .button{
+		padding-top: 34px;
+	}
+	.aboutus .button a{
+		padding: 15px 40px;
+	}
+	.text-wrapper h1 {
+    	font-size: 2.5em;
+    	font-weight: 300;
+	}
+
+	.text-wrapper{
+		padding-right: 85px;
+	}
+
+	.text-wrapper p {
+    	padding-top: 43px;
+    	font-size: 0.9em;
+	}
+	.aboutEmoji{
+		top: 20%;
+		left:4%;
+	}
+	.button a{
+		font-size: 1.3em;
+	}
+	.whyus{
+		height: 660px;
+	}
+	.whyus h1{
+		font-size: 2.5em;
+	}
+
+	.whyusEmoji{
+		left: 64%;
+		top: 21%;
+	}
+
+	.whyus .text-wrapper{
+		padding-top: 126px;
+	}
+	.services{
+		height: 791px;
+		margin-top: -239px;
+	}
+	.service-text-wrapper{
+		font-size: 0.9em;
+	}
+	.services .button{
+		padding-top: 20px;
+	}
+	.services .button a{
+		padding: 12px 35px;
+	}
+	.services h1{
+		padding-top: 137px;
+		font-size: 3em;
+	}
+	.slider{
+		padding-top: 0;
+	}
+	.contactus{
+		height: 807px;
+	}
+	.contactus h1{
+		font-size: 2em;
+		padding-top: 155px;
+	}
+	.contactus .button {
+    	padding-top: 20px;
+	}
+	.forum {
+		width: 75.00000000000002%;
+    	margin: 0 auto;
+    	padding-top: 19px;
+	}
+	input{
+		font-size: 0.9em;
+	}
+	.box{
+		height: 350px;
+    	min-width: 221px;
+	}
+	.footer{
+		-webkit-clip-path: polygon(50% 0%, 100% 18%, 100% 100%, 0 100%, 0 20%);
+    	clip-path: polygon(50% 0%, 100% 20%, 100% 100%, 0 100%, 0 20%);
+    	height: 375px;
+	}
+	.footer h1{
+		left: 30%;
+	}
+	.footer .row{
+		padding-top: 157px;
+    	padding-right: 83px;
+	}
+	.footer .row h3{
+		font-size: 1.5em;
+	}
+	.footer h1{
+		left: 25%;
+	}
+	.footer .row ul li {
+    	font-size: 1em;
+	}
+	.subscribe{
+		left:51px;
+		top:45%;
+	}
+	.credits{
+		left: 21%;
+	}
+	.slider{
+		width: 90%;
+	}
+}
+
+/*tablets*/
+@media (max-width: 800px){
+	.logo{
+		margin-top: -95px;
+		height: 249px;
+	}
+	.mobi-nav{
+		display: none;
+	}
+	.wave{
+		left: 63%;
+		width: 300px;
+		height: 300px;
+		margin-top: -84px;
+	}
+	.title{
+		font-size: 18px;
+	}
+	.navbar li{
+		padding: 9px 15px;
+	}
+	.container{
+		width: 100%;
+	}
+	.wrapper{
+		background-image: none;
+	}
+	.side-widget{
+		display: none;
+	}
+	.aboutus .text-wrapper{
+		padding-right: 61px;
+		padding-top: 136px;
+	}
+	.aboutEmoji{
+		top: 25%;
+	}
+	.aboutEmoji,.whyusEmoji{
+		height: 200px;
+		width: 200px;
+	}
+	.whyus .text-wrapper{
+		padding-left: 50px;
+		padding-top: 120px;
+	}
+	.whyus .button{
+		padding-top: 30px;
+	}
+	.whyusEmoji{
+		left: 69%;
+		top: 24%;
+	}
+	.slider{
+		padding-top: 0px;
+	}
+	.services{
+		margin-top: -296px;
+	}
+	.forum{
+		width: 90%;
+	}
+	.contactus .button{
+		padding-top: 12px;
+	}
+	.footer{
+		height: 336px;
+	}
+	.footer h1{
+		left: 23%;
+		padding-top: 188px;
+	}
+	.footer .row{
+		padding-top: 150px;
+		padding-right: 63px;
+	}
+	.subscribe{
+		left: 42px;
+		top: 45%;
+	}
+	.credits{
+		left: 15%;
+	}
+}
+@media  (max-width: 760px) {
+
+}
+@media (max-width: 670px){
+	.burger{
+		display: initial;
+	}
+	 .logo{
+	 	margin-top: 0;
+	 	height: 100vh;
+	 	display: flex;
+	 }
+	 .wave{
+
+    	left: 0;
+    	margin: 0;
+    	right: 0;
+    	margin:0 auto;
+    	top: 30%;
+	 }
+	 .icontext {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+	}
+	.logotitle{
+		padding-top: 0;
+	}
+	 .title{
+	 	padding-top: 30%;
+	 }
+	 nav{
+	 	display: none;
+	 }
+}
+@media (max-width: 670px){
+	 .logo{
+	 	margin-top: 0;
+	 	height: 100vh;
+	 	display: flex;
+	 }
+	 .wave{
+    	top: 30%;
+
+	 }
+	 .title{
+	 	padding: 0;
+    line-height: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+	 }
+	 nav{
+	 	display: none;
+	 }
+	 .brand-story{
+	 	height: 684px;
+	 }
+	 .brand-story p{
+	 	padding-top: 40px;
+	 }
+	 .brand-story .button{
+	 	padding-top: 50px;
+	 }
+	 .aboutus{
+	 	height: 639px;
+	 	margin-top: -295px;
+	 }
+	 .aboutus .text-wrapper{
+	 	width: 100%;
+	 	padding: 30px !important;
+    	text-align: center;
+    	padding-top: 178px !important;
+	 }
+	 .aboutus .button{
+	 	text-align: center;
+	 }
+	 .aboutEmoji{
+	 	display: none;
+	 }
+	 .whyus{
+	 	height: 779px;
+	 }
+	 .whyus .text-wrapper{
+	 	width: 100%;
+	    padding: 0 30px;
+		padding-top: 205px;
+		text-align: center;
+	 }
+	 .whyus .button{
+	 	text-align: center;
+	 }
+	 .whyus .button a{
+	 	padding: 15px 35px;
+	 }
+	 .whyusEmoji{
+	 	display: none;
+	 }
+	 .services h1{
+	 	margin-bottom: 5px;
+	 }
+	 .contactus{
+	 	height: 903px;
+	 }
+	 .row{
+	 	padding: 0;
+	 }
+	 .row1 input,.row2 input{
+	 	width: 100%;
+	 }
+	 .col1,.col2,.col3,.col4{
+	 	width: 100%;
+	 }
+	 .footer{
+	 	height: 534px;
+	 }
+	 .footer-links{
+		 width: 100%;
+		 float: none;
+	 }
+	 .flogo{
+		 float: none;
+		 width: 100%;
+	 }
+	 .footer-social{
+		 width: 100%;
+		 float: none;
+	 }
+}
+
+/*@media (max-width: 425px){
+	.whyus .text-wrapper{
+		padding-top: 160px;
+	}
+}*/
+@media (max-width: 380px){
+	.whyus .text-wrapper h1{
+		font-size: 2.3em;
+	}
+}
+
+@media (max-width: 366px){
+	.whyus .text-wrapper{
+		padding-top: 148px;
+	}
+}
+@media (max-width: 355px){
+	.whyus .text-wrapper{
+		padding-top: 139px;
+	}
+	.whyus .text-wrapper h1{
+		font-size: 2.2em;
+	}
+}
+@media (max-width: 343px){
+	.whyus .text-wrapper{
+		padding-top: 139px;
+	}
+	.whyus .text-wrapper h1{
+		font-size: 2.2em;
+	}
+}
+
+@media (max-width: 340px){
+	.wave{
+		height: 250px;
+		width: 250px;
+	}
+	.whyus .text-wrapper{
+		padding-top: 128px;
+	}
+	.whyus .text-wrapper h1{
+		font-size: 1.9em;
+	}
+	.box{
+		max-width: 220px;
+	}
+	.icon-title{
+		font-size: 1.5em;
+	}
+}
+
+
+
+@media (max-width: 1024px){
+	.acontact{
+		padding-bottom: 25px;
+	}
+}
+@media (max-width: 768px){
+	.seobox{
+		padding: 0 10%;
+	}
+}
+
+@media (max-width: 425px){
+	.seobox{
+		padding: 0 5%;
+	}
+	.page h1{
+		font-size: 2em;
+	}
+	.c-box{
+		padding: 0;
+	}
+	.c-box input{
+		width: 70%;
+	}
+	.acontact{
+		padding: 0 5%;
+		padding-bottom: 65px;
+	}
+	.acontact ul a{
+		font-size: 0.9em;
+	}
+}
+@media (max-width: 320px){
+	.acontact{
+		padding: 0 2%;
+		padding-bottom: 65px;
+	}
+}

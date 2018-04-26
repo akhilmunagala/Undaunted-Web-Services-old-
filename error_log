@@ -1,0 +1,35 @@
+[11-Feb-2018 12:02:04 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[11-Feb-2018 12:02:04 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:42:10 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:42:13 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:42:31 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:42:31 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:43:53 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:43:53 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:45:24 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:45:24 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:48:25 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:48:25 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:54:59 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:54:59 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:55:04 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:55:04 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:55:10 Etc/GMT] PHP Warning:  require(/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 04:55:10 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/undaunte/public_html/testmail/phpmailer/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/undaunte/public_html/index.php on line 207
+[12-Feb-2018 05:12:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 246
+[12-Feb-2018 05:13:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 246
+[12-Feb-2018 05:14:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 246
+[12-Feb-2018 05:14:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 246
+[12-Feb-2018 05:14:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 246
+[12-Feb-2018 05:20:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 248
+[12-Feb-2018 05:20:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 248
+[12-Feb-2018 05:22:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 248
+[12-Feb-2018 05:24:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 248
+[12-Feb-2018 05:24:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/undaunte/public_html/index.php on line 248
+[12-Feb-2018 05:28:14 Etc/GMT] PHP Notice:  Undefined variable: body in /home/undaunte/public_html/index.php on line 240
+[12-Feb-2018 05:29:45 Etc/GMT] PHP Notice:  Undefined variable: body in /home/undaunte/public_html/index.php on line 240
+[12-Feb-2018 05:32:50 Etc/GMT] PHP Notice:  Undefined variable: body in /home/undaunte/public_html/index.php on line 240
+[12-Feb-2018 05:48:21 Etc/GMT] PHP Notice:  Undefined variable: body in /home/undaunte/public_html/index.php on line 240
+[12-Feb-2018 05:58:10 Etc/GMT] PHP Notice:  Undefined variable: body in /home/undaunte/public_html/index.php on line 240
+[12-Feb-2018 06:00:44 Etc/GMT] PHP Notice:  Undefined variable: body in /home/undaunte/public_html/index.php on line 240
+[12-Feb-2018 06:04:28 Etc/GMT] PHP Notice:  Undefined variable: body in /home/undaunte/public_html/index.php on line 240
